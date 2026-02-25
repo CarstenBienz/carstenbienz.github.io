@@ -2,7 +2,7 @@
 title: "Fund Ownership, Wealth, and Risk-Taking: Evidence on Private Equity Managers"
 collection: publications
 category: published
-permalink: /publication/2023-04-01-fund-ownership-wealth-risk-taking-private-equity-managers
+permalink: /publication/2023-04-01-RiskTaking
 excerpt: "This paper analyzes how fund ownership and personal wealth shape risk-taking incentives for private equity managers."
 date: 2023-04-01
 venue: "Journal of Financial Intermediation"
