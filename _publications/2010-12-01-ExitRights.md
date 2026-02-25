@@ -1,7 +1,7 @@
 ---
 title: "Venture Capital Exit Rights"
 collection: publications
-category: published
+category: manuscripts
 permalink: /publication/2010-12-01-ExitRights
 excerpt: "This article studies exit rights in venture capital contracts and their implications for bargaining and exits."
 date: 2010-12-01

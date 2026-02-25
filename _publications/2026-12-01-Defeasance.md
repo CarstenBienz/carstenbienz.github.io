@@ -1,7 +1,7 @@
 ---
 title: "The Covenant Defeasance Option in Corporate Bonds"
 collection: publications
-category: forthcoming
+category: manuscripts
 permalink: /publication/2026-12-01-Defeasance
 excerpt: "We study the defeasance option in corporate bond contracts and show how it affects yields."
 date: 2026-02-01
