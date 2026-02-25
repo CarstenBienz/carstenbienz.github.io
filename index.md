@@ -1,4 +1,3 @@
-# Carsten Bienz
 **Welcome to my personal website**
 
 # About me
