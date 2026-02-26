@@ -13,8 +13,8 @@ I also teach executives at NHH, both in our Certifief Financial Analytics progra
 
 Finally, I am the proud author of a Harvard Case on [Leveraged Buyouts](https://www.hbs.edu/faculty/Pages/item.aspx?num=45561).
 
-{% include base_path %}
+# {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# {% for post in site.teaching reversed %}
+#  {% include archive-single.html %}
+# {% endfor %}
