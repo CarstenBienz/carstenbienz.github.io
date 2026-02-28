@@ -13,4 +13,4 @@ I also teach executives at NHH, both in our Certifief Financial Analytics progra
 
 Finally, I am the proud author of a Harvard Case on [Leveraged Buyouts](https://www.hbs.edu/faculty/Pages/item.aspx?num=45561).
 
-
+In 2024 I joined the ranks of NHH's "Excellent Teaching Practitioners", a Norway wide initiavtive that recognizes excellence in teaching. I am currently the head of NHH's pedagocical academy.
